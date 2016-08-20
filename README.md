@@ -1,8 +1,7 @@
 # red-pandas-phase-2-projects
 ### Submit an issue with you info and I'll compile here, or slack it, or add directly here.
-### 
-### 
-
+<br>
+<br>
 
 ## Jason
 **github:** https://github.com/codejlo/for-all
@@ -12,7 +11,9 @@
 **synopsis:** [google preso](https://docs.google.com/presentation/d/1tGzFVWZA5N3c0AR6aWMrdxAN0TaLnJuUtKjDlWSYNdo/edit?usp=sharing)
 
 **check it out for:**
-* activerecord relationships (albeit messy) with follower/following
+* activerecord relationships with follower/following
 * plain css with variables and flexbox centering/positioning
 * csv and json parsing
 * ajax
+<br>
+<br>
