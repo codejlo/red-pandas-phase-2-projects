@@ -17,3 +17,16 @@
 * ajax
 <br>
 <br>
+
+## Amanda
+**github:** https://github.com/AmandaWouldGo/passion-project
+
+**demo:** http://doodle-life@herokuapp.com
+
+**check it out for:**
+
+* HTML5 Canvas
+* JQuery/Javascript drawing tools
+* AJAX
+<br>
+<br>
