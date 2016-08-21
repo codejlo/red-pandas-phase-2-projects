@@ -1,5 +1,5 @@
 # red-pandas-phase-2-projects
-### Submit an issue with you info and I'll compile here, or slack it, or add directly here.
+### Submit an issue with your project info and I'll compile here, or slack it, or add directly here.
 <br>
 <br>
 
