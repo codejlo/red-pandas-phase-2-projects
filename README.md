@@ -24,9 +24,23 @@
 **demo:** http://doodle-life@herokuapp.com
 
 **check it out for:**
-
 * HTML5 Canvas
 * JQuery/Javascript drawing tools
 * AJAX
 <br>
 <br>
+
+## Millie
+Project - Singtube! A place to add your karaoke song to the queue!
+**github:**https://github.com/milliechan/passion_project
+
+**demo:** http://singtube2.herokuapp.com/
+
+**check it out for:**
+* HTTParty gem
+* Youtube Data API
+* Ajax
+<br>
+<br>
+
+
