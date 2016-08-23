@@ -54,4 +54,13 @@ Project - Singtube! A place to add your karaoke song to the queue!
 <br>
 <br>
 
+## Chester
+**github:** https://github.com/chesterhub/devbootcamp.chomp
+
+**check it out for:**
+* Javascript
+* Phaser Framework
+* HTML 5 (WebGL/Canvas)
+<br>
+<br>
 
