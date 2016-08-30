@@ -85,3 +85,23 @@ App for stock market.
 <br>
 <br>
 
+
+## Kevin
+
+**github:** https://github.com/kevinmcgovern92/jerk-alert
+Project: JerkAlert - language processing with Alchemy API
+
+**demo:** https://jerk-alert.herokuapp.com/
+(some images do not load for some reason)
+
+**Check it out for:**
+* Alchemy API
+* Specifically the Emotion Analysis query -- it doesn't exist in the Ruby Alchemy repo (https://github.com/AlchemyAPI/alchemyapi_ruby) so I wrote the code for it
+* Sessions validations and error messages
+<br>
+<br>
+
+## Shawn
+
+**github:** https://github.com/ShawnTe/Daily-Planner
+Super rudimentary at this point. I have plans to hook up a daily calendar feature for schedule part and the CSS needs a Ton of clean up.
