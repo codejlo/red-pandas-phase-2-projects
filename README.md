@@ -72,3 +72,16 @@ Project - Singtube! A place to add your karaoke song to the queue!
 * Twilio API
 <br>
 <br>
+
+
+## Nicolae
+
+**github:** https://github.com/nitescun/Investor
+App for stock market.
+
+**check it out for:**
+* Yahoo finance gem
+* Ajax
+<br>
+<br>
+
