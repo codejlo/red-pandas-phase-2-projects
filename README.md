@@ -106,3 +106,17 @@ Project: JerkAlert - language processing with Alchemy API
 
 **github:** https://github.com/ShawnTe/Daily-Planner
 Super rudimentary at this point. I have plans to hook up a daily calendar feature for schedule part and the CSS needs a Ton of clean up.
+
+## Eric
+
+**github:** github: https://github.com/ericbooker12/passion_project_V2
+Synopsis: Display of geothermal drilling data
+
+**Check it out for:**
+* Data parsing in seed file
+* Use of d3js and nvd3 libraries in graphs.js
+* AJAX for retrieving chart data
+* json parsing
+* Spinning cat - jQueryRotate library
+<br>
+<br>
