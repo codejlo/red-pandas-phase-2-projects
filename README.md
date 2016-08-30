@@ -31,8 +31,9 @@
 <br>
 
 ## Millie
-Project - Singtube! A place to add your karaoke song to the queue!
+
 **github:**https://github.com/milliechan/passion_project
+Project - Singtube! A place to add your karaoke song to the queue!
 
 **demo:** http://singtube2.herokuapp.com/
 
